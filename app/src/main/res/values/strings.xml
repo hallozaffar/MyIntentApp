@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyintentApp</string>
+    <string name="move_activity">Move activity</string>
+    <string name="move_with_data">Move activity With data</string>
+    <string name="dial_numaber">Dial a number</string>
+    <string name="data_recived">Data Recived</string>
+    <string name="this_is_moveactivity">This Move Activity</string>
+    <string name="profile">Profile</string>
+    <string name="nishimiya">Nishimiya</string>
+</resources>
